@@ -5,6 +5,6 @@ RescueTime API in different languages
 https://www.rescuetime.com/apidoc
 
 ## Ruby
-https://github.com/leesharma/rescuetime#rescuetime-exceptions
+https://github.com/leesharma/rescuetime
 ## Go
 https://github.com/AbhiAgarwal/go-rescuetime
